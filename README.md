@@ -63,9 +63,11 @@ The application uses a trained Random Forest model to predict diseases from symp
 
 ## 📸 Screenshots
 
-### Disease Prediction Interface
+### 🖥️ Prediction Interface
 
-![Prediction Interface](screenshots/prediction-interface.png)
+<p align="center">
+  <img src="screenshots/prediction-interface.png" width="90%" alt="Prediction Interface">
+</p>
 
 *The prediction interface allows users to enter symptoms and state information to get disease predictions with confidence scores and active case data.*
 
@@ -75,11 +77,13 @@ The application uses a trained Random Forest model to predict diseases from symp
 - Active cases per disease
 - Tree voting results
 
-> **Note:** To add screenshots, save your application screenshots as `prediction-interface.png` and `interactive-map.png` in the `screenshots/` directory.
+---
 
-### Interactive Map Visualization
+### 🗺️ Interactive Map
 
-![Interactive Map](screenshots/interactive-map.png)
+<p align="center">
+  <img src="screenshots/interactive-map.png" width="90%" alt="Interactive Map">
+</p>
 
 *The interactive map displays disease clusters across India with detailed information about each cluster zone.*
 
