@@ -77,6 +77,8 @@ The application uses a trained Random Forest model to predict diseases from symp
 - Active cases per disease
 - Tree voting results
 
+> **Note:** To add screenshots, save your application screenshots as `prediction-interface.png` and `interactive-map.png` in the `screenshots/` directory.
+
 ### Interactive Map Visualization
 
 ![Interactive Map](screenshots/interactive-map.png)
@@ -159,13 +161,15 @@ The application uses a trained Random Forest model to predict diseases from symp
    pipwin install geopandas
    ```
 
-4. **Verify required data files**
+4. **Add required data files**
    
-   Ensure the following files are present in the project directory:
-   - ✅ `sliced_disease_dataset.csv` - Symptom dataset for training
-   - ✅ `new_data.csv` - State-wise disease data
-   - ✅ `all_data.csv` - Complete dataset for mapping
-   - ✅ `india.geojson` - India boundary data for map visualization
+   **Note:** Data files are not included in this repository due to size limitations. You need to add the following files to the project directory:
+   - `sliced_disease_dataset.csv` - Symptom dataset for training
+   - `new_data.csv` - State-wise disease data
+   - `all_data.csv` - Complete dataset for mapping
+   - `india.geojson` - India boundary data for map visualization
+   
+   These files should be placed in the root directory of the project.
 
 ---
 
