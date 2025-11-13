@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 **An intelligent web application that predicts diseases based on symptoms and visualizes disease clusters on an interactive map of India using Machine Learning.**
 
@@ -25,7 +24,6 @@
 - [Project Structure](#-project-structure)
 - [How It Works](#-how-it-works)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -320,12 +318,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
